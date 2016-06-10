@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "364849320812",
+    "firebase_url": "https://dataisbeautiful-c8890.firebaseio.com",
+    "project_id": "dataisbeautiful-c8890",
+    "storage_bucket": "dataisbeautiful-c8890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364849320812:android:a6f583ff3df4e838",
+        "android_client_info": {
+          "package_name": "com.thenairn.dataisbeautiful"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364849320812-74u8cud72im2h559ll39362rveup26j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr-CAQag2MACnG6eOcORN5E9MdwxTi33E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
