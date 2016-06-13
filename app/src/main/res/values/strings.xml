@@ -1,4 +1,102 @@
 <resources>
     <string name="app_name">DataIsBeautiful</string>
     <string name="action_settings">Settings</string>
+
+    <string name="onboard_first_title">Welcome to Data is Beautiful</string>
+    <string name="onboard_first_desc">Easy, secure and custom life tracking.</string>
+
+    <string name="onboard_second_title">Studies</string>
+    <string name="onboard_second_desc">Study your wake up times and mood, learn how to have a better day</string>
+
+    <string name="onboard_third_title">Stories</string>
+    <string name="onboard_third_desc">Are you a dreamer? Write them down and
+        correlate them to other aspects of your life, perhaps you could discover something new?</string>
+
+    <string name="onboard_fourth_title">Secure and Available</string>
+    <string name="onboard_fourth_desc">All of your stats are available online and accessible anywhere,
+        so you can really dig in where you need to most.</string>
+
+    <string name="sign_in_unknown_response">Sorry, we were unable to sign you in, please try again.</string>
+    <string name="sign_in_cancelled">Sign in cancelled</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_title_settings">Settings</string>
+    <string name="nav_title_logout">Logout</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
 </resources>

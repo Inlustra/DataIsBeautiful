@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="onboard_first">#4CAF50</color>
+    <color name="onboard_second">#009688</color>
+    <color name="onboard_third">#00BCD4</color>
+    <color name="onboard_fourth">#03A9F4</color>
+    <color name="onboard_fifth">#2196F3</color>
 </resources>
